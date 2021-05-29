@@ -4,7 +4,7 @@ body{
 }
 
 form{
-	background: rgb(221, 216, 216);
+	background: rgb(240, 235, 235);
 }
 
 .form-container{
@@ -13,9 +13,8 @@ form{
     border-color: solid black;
 }
 .btn {
-    background-color:rgb(15, 219, 93);
-    border-color: black;
-}
+    background-color:#008000}
+    
 .form-footer{
     
     text-align: center;
