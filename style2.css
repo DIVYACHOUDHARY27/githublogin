@@ -25,7 +25,10 @@ align-items: center;
 }
 
 
-
+.logo-area{
+	left: 46%;
+	position: relative;
+}
 
 
 a{
